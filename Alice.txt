@@ -1,8 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 I believe I add a second line now
 Adding more to this 
 Add a bit more
-=======
-Change from remote
->>>>>>> 8a6c638f916157ce17a05f4cd72d4e00c4a017e1
